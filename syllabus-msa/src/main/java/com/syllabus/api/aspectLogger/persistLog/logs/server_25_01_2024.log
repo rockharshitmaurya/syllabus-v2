@@ -1,0 +1,363 @@
+[2024-01-25T00:21:35.663085287] Incoming request to /syllabus-v2/syllabus/3 ResponseEntity com.syllabus.api.controller.SyllabusController.getSyllabusById(Long)
+Incoming request body: 3
+
+[2024-01-25T00:21:38.925505358] Incoming request to /syllabus-v2/syllabus/1 ResponseEntity com.syllabus.api.controller.SyllabusController.getSyllabusById(Long)
+Incoming request body: 1
+
+[2024-01-25T01:47:59.378649726] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:47:59.633859879] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:48:03.624931513] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:48:03.632137647] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:48:32.939215378] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:48:32.947300830] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:49:10.240114713] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:49:10.492175616] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:52:06.216031815] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:52:06.495023182] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:53:01.186873513] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:53:01.457664688] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:54:15.638458520] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:54:15.875045627] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:56:56.688443837] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:56:56.936792294] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:59:27.209105028] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T01:59:27.455574433] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:02:20.545704007] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:02:20.787367819] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:02:21.699773623] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:02:21.707083774] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:03:14.990580027] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:03:15.230427641] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:06:44.197003779] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:06:44.200943036] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:08:43.809804635] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:09:11.690969202] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:09:23.243357519] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:09:45.735469058] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:12:11.622435580] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:12:11.871692001] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:13:02.081486959] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:13:02.321781854] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:16:55.591561203] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:16:55.838885993] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:18:19.520487753] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:18:19.766010507] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:21:36.280425788] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T02:21:36.521361955] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:20:45.894200121] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T12:20:45.921216850] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T12:22:41.070400544] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:22:41.275919329] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:24:00.638100868] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:24:00.873279145] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:31:47.430804454] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.createSyllabus(SyllabusDto)
+Incoming request body: {"syllabus_id":null,"name":"Operating System","status":"Hindi","medium":"English","description":"This is Dummy"}
+
+[2024-01-25T12:32:55.789771561] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.createSyllabus(SyllabusDto)
+Incoming request body: {"syllabus_id":null,"name":"Operating System","status":"Hindi","medium":"English","description":"This is Dummy"}
+
+[2024-01-25T12:32:59.355537986] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:45:59.666204847] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:45:59.919993832] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:46:14.898572044] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.createSyllabus(SyllabusDto)
+Incoming request body: {"syllabus_id":null,"name":"Tesdt","status":"nj","medium":"jnj","description":"njnj"}
+
+[2024-01-25T12:46:16.804016802] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:46:26.774617986] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.createSyllabus(SyllabusDto)
+Incoming request body: {"syllabus_id":null,"name":"Maths","status":"nbjnb","medium":"hubj","description":"jnbj"}
+
+[2024-01-25T12:46:37.599146305] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.createSyllabus(SyllabusDto)
+Incoming request body: {"syllabus_id":null,"name":"jnj","status":"jnj","medium":"njnb","description":"jnbjn"}
+
+[2024-01-25T12:46:39.844854427] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:46:55.278843386] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T12:46:55.307717513] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T12:50:18.793863288] Incoming request to /syllabus-v2/syllabus/exists/41 ResponseEntity com.syllabus.api.controller.SyllabusController.isSyllabusExists(Long)
+Incoming request body: 41
+
+[2024-01-25T12:58:07.723748679] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:58:07.954028885] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:58:09.499453404] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:58:09.504506358] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:58:14.143175688] Incoming request to /syllabus-v2/syllabus/47 ResponseEntity com.syllabus.api.controller.SyllabusController.deleteSyllabus(Long)
+Incoming request body: 47
+
+[2024-01-25T12:58:15.854958916] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:58:18.802823516] Incoming request to /syllabus-v2/syllabus/46 ResponseEntity com.syllabus.api.controller.SyllabusController.deleteSyllabus(Long)
+Incoming request body: 46
+
+[2024-01-25T12:58:20.101264684] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:58:49.967123605] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:58:49.970447430] Incoming request to /syllabus-v2/syllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T12:59:16.809917098] Incoming request to /syllabus-v2/syllabus/exists/44 ResponseEntity com.syllabus.api.controller.SyllabusController.isSyllabusExists(Long)
+Incoming request body: 44
+
+[2024-01-25T12:59:53.822251821] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T12:59:53.851744716] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T13:08:25.953791110] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T13:08:25.984445496] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T13:09:30.389790182] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:09:30.651193565] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:09:37.105425717] Incoming request to /syllabus-v2/createSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.createSyllabus(SyllabusDto)
+Incoming request body: {"syllabus_id":null,"name":"12","status":"nknkj","medium":"njknk","description":"nkjn"}
+
+[2024-01-25T13:09:39.173594163] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:09:44.141004571] Incoming request to /syllabus-v2/deleteSyllabus/48 ResponseEntity com.syllabus.api.controller.SyllabusController.deleteSyllabus(Long)
+Incoming request body: 48
+
+[2024-01-25T13:09:45.557857262] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:09:53.634232860] Incoming request to /syllabus-v2/updateSyllabus/45 ResponseEntity com.syllabus.api.controller.SyllabusController.updateSyllabus(Long,Syllabus)
+Incoming request body: 45
+
+[2024-01-25T13:10:07.785754411] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:10:07.794153613] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:10:21.119149273] Incoming request to /syllabus-v2/updateSyllabus/45 ResponseEntity com.syllabus.api.controller.SyllabusController.updateSyllabus(Long,Syllabus)
+Incoming request body: 45
+
+[2024-01-25T13:10:24.233800484] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:10:24.240153285] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:11:07.736713004] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:11:07.741383778] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:11:15.494979505] Incoming request to /syllabus-v2/deleteSyllabus/45 ResponseEntity com.syllabus.api.controller.SyllabusController.deleteSyllabus(Long)
+Incoming request body: 45
+
+[2024-01-25T13:11:17.203277374] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:11:25.314268362] Incoming request to /syllabus-v2/updateSyllabus/44 ResponseEntity com.syllabus.api.controller.SyllabusController.updateSyllabus(Long,Syllabus)
+Incoming request body: 44
+
+[2024-01-25T13:11:47.262955409] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:11:47.269156688] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:11:52.610291274] Incoming request to /syllabus-v2/updateSyllabus/43 ResponseEntity com.syllabus.api.controller.SyllabusController.updateSyllabus(Long,Syllabus)
+Incoming request body: 43
+
+[2024-01-25T13:11:54.352034146] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:12:59.976122139] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T13:12:59.992799542] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T13:20:21.674804476] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T13:20:21.693660471] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T13:23:26.930563573] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:23:26.935594893] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:23:28.265547924] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:23:28.270082187] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T13:23:47.895179762] Incoming request to /syllabus-v2/syllabus/exists/40 ResponseEntity com.syllabus.api.controller.SyllabusController.isSyllabusExists(Long)
+Incoming request body: 40
+
+[2024-01-25T13:24:00.301053303] Incoming request to /syllabus-v2/syllabus/exists/33 ResponseEntity com.syllabus.api.controller.SyllabusController.isSyllabusExists(Long)
+Incoming request body: 33
+
+[2024-01-25T13:25:48.016105486] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T13:25:48.034908300] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T14:00:28.780495717] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T14:00:28.800251176] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T14:03:08.605740307] Incoming request to /syllabus-v2/syllabus/getSyllabusById/1 ResponseEntity com.syllabus.api.controller.SyllabusController.getSyllabusById(Long)
+Incoming request body: 1
+
+[2024-01-25T14:04:08.016376843] Incoming request to /syllabus-v2/syllabus/getSyllabusById/a ResponseEntity com.syllabus.api.controller.SyllabusController.getSyllabusById(String)
+Incoming request body: "a"
+
+[2024-01-25T14:11:58.489517315] Incoming request to /syllabus-v2/syllabus/getSyllabusById/a ResponseEntity com.syllabus.api.controller.SyllabusController.getSyllabusById(String)
+Incoming request body: "a"
+
+[2024-01-25T14:34:34.643917052] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:34:34.855408190] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:39:00.052678795] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:39:00.293909638] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:42:10.380714677] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:42:10.637806778] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:43:08.626237721] Incoming request to /syllabus-v2/syllabus/getSyllabusById/a ResponseEntity com.syllabus.api.controller.SyllabusController.getSyllabusById(String)
+Incoming request body: "a"
+
+[2024-01-25T14:43:25.513021509] Incoming request to /syllabus-v2/syllabus/getSyllabusById/a ResponseEntity com.syllabus.api.controller.SyllabusController.getSyllabusById(String)
+Incoming request body: "a"
+
+[2024-01-25T14:44:03.679836874] Incoming request to /syllabus-v2/syllabus/getSyllabusById/a ResponseEntity com.syllabus.api.controller.SyllabusController.getSyllabusById(String)
+Incoming request body: "a"
+
+[2024-01-25T14:47:52.542210995] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T14:47:52.577964876] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T14:49:16.722263617] Incoming request to /syllabus-v2/syllabus/getSyllabusById/a ResponseEntity com.syllabus.api.controller.SyllabusController.getSyllabusById(String)
+Incoming request body: "a"
+
+[2024-01-25T14:50:42.523762145] Incoming request to /syllabus-v2/syllabus/getSyllabusById/a ResponseEntity com.syllabus.api.controller.SyllabusController.getSyllabusById(String)
+Incoming request body: "a"
+
+[2024-01-25T14:52:30.237939917] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:52:30.487755515] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:52:36.643423107] Incoming request to /syllabus-v2/updateSyllabus/43 ResponseEntity com.syllabus.api.controller.SyllabusController.updateSyllabus(String,Syllabus)
+Incoming request body: "43"
+
+[2024-01-25T14:52:38.775548047] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:52:59.999257268] Incoming request to /syllabus-v2/updateSyllabus/43 ResponseEntity com.syllabus.api.controller.SyllabusController.updateSyllabus(String,Syllabus)
+Incoming request body: "43"
+
+[2024-01-25T14:53:01.620856542] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:53:06.114864690] Incoming request to /syllabus-v2/deleteSyllabus/43 ResponseEntity com.syllabus.api.controller.SyllabusController.deleteSyllabus(String)
+Incoming request body: "43"
+
+[2024-01-25T14:53:08.411734621] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:53:20.303873202] Incoming request to /syllabus-v2/updateSyllabus/1 ResponseEntity com.syllabus.api.controller.SyllabusController.updateSyllabus(String,Syllabus)
+Incoming request body: "1"
+
+[2024-01-25T14:53:22.014188720] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:53:25.562971348] Incoming request to /syllabus-v2/deleteSyllabus/1 ResponseEntity com.syllabus.api.controller.SyllabusController.deleteSyllabus(String)
+Incoming request body: "1"
+
+[2024-01-25T14:53:27.196102165] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:57:47.714918388] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T14:57:47.780410976] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T14:58:01.768173039] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:58:02.055978677] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:58:40.083604970] Incoming request to /syllabus-v2/createSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.createSyllabus(SyllabusDto)
+Incoming request body: {"syllabus_id":null,"name":"ntest","status":"jnjn","medium":"jnjnjn","description":"jnj"}
+
+[2024-01-25T14:58:41.812905182] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:58:50.438335241] Incoming request to /syllabus-v2/updateSyllabus/49 ResponseEntity com.syllabus.api.controller.SyllabusController.updateSyllabus(String,Syllabus)
+Incoming request body: "49"
+
+[2024-01-25T14:58:52.150255689] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T14:58:57.664247349] Incoming request to /syllabus-v2/deleteSyllabus/49 ResponseEntity com.syllabus.api.controller.SyllabusController.deleteSyllabus(String)
+Incoming request body: "49"
+
+[2024-01-25T14:58:59.367216455] Incoming request to /syllabus-v2/getAllSyllabus ResponseEntity com.syllabus.api.controller.SyllabusController.getAllSyllabus()
+
+[2024-01-25T15:00:06.462975348] Incoming request to /syllabus-v2/syllabus/exists/39 ResponseEntity com.syllabus.api.controller.SyllabusController.isSyllabusExists(String)
+Incoming request body: "39"
+
+[2024-01-25T15:00:44.343312149] Incoming request to /syllabus-v2/syllabus/exists/40 ResponseEntity com.syllabus.api.controller.SyllabusController.isSyllabusExists(String)
+Incoming request body: "40"
+
+[2024-01-25T15:00:49.052145367] Incoming request to /syllabus-v2/syllabus/exists/40 ResponseEntity com.syllabus.api.controller.SyllabusController.isSyllabusExists(String)
+Incoming request body: "40"
+
