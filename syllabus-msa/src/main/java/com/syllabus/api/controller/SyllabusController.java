@@ -1,5 +1,6 @@
 package com.syllabus.api.controller;
 
+import com.syllabus.api.constants.ConstantMessage;
 import com.syllabus.api.dto.request_dto.SyllabusDto;
 import com.syllabus.api.entity.Syllabus;
 import com.syllabus.api.model.Message;
@@ -25,13 +26,13 @@ public class SyllabusController {
     @GetMapping
     public ResponseEntity<Message> welcomeMessage() {
         String message = "Welcome to my syllabus-v2 MSA";
-        return ResponseEntity.ok(new Message(message));
+        return ResponseEntity.ok(new Message(ConstantMessage.WELCOME_MESSAGE));
     }
 
     @GetMapping("/getAllSyllabus")
     public ResponseEntity<?> getAllSyllabus() {
         List<Syllabus> syllabusList=syllabusService.getAllSyllabus();
-        if(syllabusList.isEmpty()) return ResponseEntity.status(204).body(new Message("No Record Found"));
+        if(syllabusList.isEmpty()) return ResponseEntity.status(204).body(new Message(ConstantMessage.NO_RECORD_FOUND));
         return ResponseEntity.ok(syllabusList);
     }
 

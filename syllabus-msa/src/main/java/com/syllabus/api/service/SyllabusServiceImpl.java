@@ -1,5 +1,6 @@
 package com.syllabus.api.service;
 
+import com.syllabus.api.constants.ConstantMessage;
 import com.syllabus.api.dto.request_dto.SyllabusDto;
 import com.syllabus.api.entity.Syllabus;
 import com.syllabus.api.model.Message;
@@ -41,12 +42,12 @@ public class SyllabusServiceImpl implements SyllabusService{
         // Validate the SyllabusDto
         if (syllabusDto == null || syllabusDto.getName() == null || syllabusDto.getName().isEmpty() ||
                 syllabusDto.getMedium() == null || syllabusDto.getMedium().isEmpty()) {
-            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(new Message("Please fill all the filed"));
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(new Message(ConstantMessage.DATA_INSUFFICIENT));
         }
 
         // Check if a similar Syllabus already exists
         if (syllabusExists(syllabusDto.getName())) {
-            return ResponseEntity.status(409).body(new Message("Syllabus with the same name already exists"));
+            return ResponseEntity.status(409).body(new Message(ConstantMessage.ALREADY_EXISTS));
         }
 
         Syllabus syllabus = new Syllabus();
@@ -57,7 +58,7 @@ public class SyllabusServiceImpl implements SyllabusService{
 
         entityManager.persist(syllabus);
 
-        return ResponseEntity.ok(new Message("Data has been inserted"));
+        return ResponseEntity.ok(new Message(ConstantMessage.DATA_INSERTED));
     }
 
 
