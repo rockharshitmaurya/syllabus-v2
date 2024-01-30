@@ -60,7 +60,7 @@ Welcome to the Syllabus-v2! This robust system efficiently manages syllabus entr
                 └── validation
                     └── InputValidation.java
     ```
-- **Routes**:
+- **Endpoints**:
     - `PUT` /syllabus-v2/updateSyllabus/{id}
     - `POST` /syllabus-v2/createSyllabus
     - `GET` /syllabus-v2
@@ -80,7 +80,6 @@ Welcome to the Syllabus-v2! This robust system efficiently manages syllabus entr
 - **Dependencies**:
     - Spring Boot Starter Data JPA
     - Spring Boot Starter Web
-    - MySQL Connector
     - Spring Boot Starter Test
     - PostgreSQL
     - Spring Boot Starter AOP
