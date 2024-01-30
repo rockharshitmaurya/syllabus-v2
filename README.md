@@ -129,16 +129,16 @@ Welcome to the Syllabus-v2! This robust system efficiently manages syllabus entr
     ```
 - **Endpoints**:
     - Tag-Controller:
-        - PUT /syllabus-v2/tag/update/{tagId}
-        - POST /syllabus-v2/tag/add
-        - GET /syllabus-v2/tag
-        - GET /syllabus-v2/tag/{tagId}
-        - GET /syllabus-v2/tag/all
-        - DELETE /syllabus-v2/tag/delete/{tagId}
+        - `PUT` /syllabus-v2/tag/update/{tagId}
+        - `POST` /syllabus-v2/tag/add
+        - `GET` /syllabus-v2/tag
+        - `GET` /syllabus-v2/tag/{tagId}
+        - `GET` /syllabus-v2/tag/all
+        - `DELETE` /syllabus-v2/tag/delete/{tagId}
     - Tag-Relation-Controller:
-        - POST /syllabus-v2/tag/manage/detach-tag
-        - POST /syllabus-v2/tag/manage/attach-tag
-        - GET /syllabus-v2/tag/manage/getSyllabusWithTags
+        - `POST` /syllabus-v2/tag/manage/detach-tag
+        - `POST` /syllabus-v2/tag/manage/attach-tag
+        - `GET` /syllabus-v2/tag/manage/getSyllabusWithTags
 
 ## 🛠️ Installation
 
