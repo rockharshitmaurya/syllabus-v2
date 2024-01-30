@@ -1,0 +1,346 @@
+[2024-01-25T12:19:09.479846450] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T12:21:40.640134050] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T12:21:40.668362093] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T12:49:36.541803577] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:49:36.541803320] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:49:36.602531285] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:49:36.709185533] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:49:44.368084103] Incoming request to /syllabus-v2/tag/delete/13 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 13
+
+[2024-01-25T12:49:54.882178467] Incoming request to /syllabus-v2/tag/delete/9 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 9
+
+[2024-01-25T12:49:54.916537707] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:49:54.916672283] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:50:10.332363876] Incoming request to /syllabus-v2/tag/manage/detach-tag ResponseEntity com.syllabus.tagv2.controller.TagRelationController.detachTag(TagRelationDto)
+Incoming request body: {"syllabusId":1,"tagId":13}
+
+[2024-01-25T12:50:10.364007264] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:50:10.364270207] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:50:18.721914663] Incoming request to /syllabus-v2/tag/manage/attach-tag ResponseEntity com.syllabus.tagv2.controller.TagRelationController.attachTag(TagRelationDto)
+Incoming request body: {"syllabusId":41,"tagId":5}
+
+[2024-01-25T12:50:20.238145581] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:50:20.238145357] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:50:26.208511698] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T12:50:26.237876501] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T12:51:42.232136919] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"@"}
+
+[2024-01-25T12:52:16.733117156] Incoming request to /syllabus-v2/tag/delete/12 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 12
+
+[2024-01-25T12:55:11.971056719] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:55:11.971056963] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:55:11.977340538] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:55:11.983193796] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:58:27.691405605] Incoming request to /syllabus-v2/tag/delete/16 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 16
+
+[2024-01-25T12:58:27.723785236] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:58:27.723787917] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:58:48.619521224] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:58:48.619525402] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:58:48.623121005] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:58:48.629034118] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:58:56.094179303] Incoming request to /syllabus-v2/tag/delete/10 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 10
+
+[2024-01-25T12:58:56.121256608] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:58:56.121545212] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:59:03.681417611] Incoming request to /syllabus-v2/tag/delete/5 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 5
+
+[2024-01-25T12:59:16.805031035] Incoming request to /syllabus-v2/tag/manage/attach-tag ResponseEntity com.syllabus.tagv2.controller.TagRelationController.attachTag(TagRelationDto)
+Incoming request body: {"syllabusId":44,"tagId":2}
+
+[2024-01-25T12:59:19.486339135] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:59:19.486339139] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:59:21.917355679] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:59:21.917355053] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:59:21.923510320] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:59:21.923510319] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:59:24.849455937] Incoming request to /syllabus-v2/tag/manage/detach-tag ResponseEntity com.syllabus.tagv2.controller.TagRelationController.detachTag(TagRelationDto)
+Incoming request body: {"syllabusId":39,"tagId":2}
+
+[2024-01-25T12:59:24.874692987] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T12:59:24.874769156] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T12:59:55.420234279] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T12:59:55.438476427] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T13:13:15.830073896] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T13:13:15.848149800] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T13:13:42.304376888] Incoming request to /syllabus-v2/tag ResponseEntity com.syllabus.tagv2.controller.TagController.home()
+
+[2024-01-25T13:13:48.671049041] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T13:13:48.681787658] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T13:17:46.316265511] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:17:46.316266289] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:17:46.373082273] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:17:46.467786468] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:17:49.806529525] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"@"}
+
+[2024-01-25T13:17:55.255998052] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"--"}
+
+[2024-01-25T13:18:03.167951994] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"Harshit Maurya"}
+
+[2024-01-25T13:18:16.347378019] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"Harshit Maurya"}
+
+[2024-01-25T13:18:37.782900507] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"Harshit Maurya"}
+
+[2024-01-25T13:18:37.999743749] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:18:37.999743727] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:18:45.156453962] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":" "}
+
+[2024-01-25T13:18:45.192087230] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:18:45.192087053] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:18:46.814142338] Incoming request to /syllabus-v2/tag/delete/18 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 18
+
+[2024-01-25T13:18:46.847541920] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:18:46.847542005] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:19:03.519617868] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"      "}
+
+[2024-01-25T13:19:03.560710580] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:19:03.560710595] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:19:21.994971379] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"    "}
+
+[2024-01-25T13:19:24.552011419] Incoming request to /syllabus-v2/tag/delete/19 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 19
+
+[2024-01-25T13:19:24.743588391] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:19:24.743622999] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:19:29.513874114] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"            "}
+
+[2024-01-25T13:19:42.241120137] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"H l "}
+
+[2024-01-25T13:19:42.300111262] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:19:42.300111191] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:19:43.730182335] Incoming request to /syllabus-v2/tag/delete/20 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 20
+
+[2024-01-25T13:19:43.743448815] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:19:43.743449218] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:23:32.666345946] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:23:32.666346139] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:23:32.716413737] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:23:32.799095443] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:23:35.363422233] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:23:35.363422863] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:23:35.369265322] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:23:35.369264468] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:23:47.838957714] Incoming request to /syllabus-v2/tag/manage/attach-tag ResponseEntity com.syllabus.tagv2.controller.TagRelationController.attachTag(TagRelationDto)
+Incoming request body: {"syllabusId":40,"tagId":2}
+
+[2024-01-25T13:23:49.637720535] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:23:49.637886797] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:23:52.720864968] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:23:52.720864962] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:23:52.728563177] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:23:52.728562796] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:24:00.296025518] Incoming request to /syllabus-v2/tag/manage/attach-tag ResponseEntity com.syllabus.tagv2.controller.TagRelationController.attachTag(TagRelationDto)
+Incoming request body: {"syllabusId":33,"tagId":13}
+
+[2024-01-25T13:24:01.673773386] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:24:01.674373447] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:24:03.479638092] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:24:03.479875362] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:24:03.485271193] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:24:03.485271168] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:24:05.021656809] Incoming request to /syllabus-v2/tag/delete/17 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 17
+
+[2024-01-25T13:24:05.061403437] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:24:05.061405064] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:24:07.000653381] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:24:07.000653535] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:24:07.005532999] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:24:07.005532496] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:24:28.031402500] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"Mumbai Board"}
+
+[2024-01-25T13:24:28.059218250] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T13:24:28.059218838] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T13:27:23.886650660] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T13:27:23.908121325] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T14:47:54.250039976] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T14:47:54.276148878] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T14:52:26.428294013] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T14:52:26.428294145] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T14:52:26.478881369] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T14:52:26.567073236] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T14:59:05.620051028] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T14:59:05.620054597] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T14:59:05.630673373] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T14:59:05.644441268] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T14:59:20.225742971] Incoming request to /syllabus-v2/tag/delete/2 ResponseEntity com.syllabus.tagv2.controller.TagController.deleteTag(Long)
+Incoming request body: 2
+
+[2024-01-25T14:59:42.100845415] Incoming request to /syllabus-v2/tag/manage/detach-tag ResponseEntity com.syllabus.tagv2.controller.TagRelationController.detachTag(TagRelationDto)
+Incoming request body: {"syllabusId":40,"tagId":2}
+
+[2024-01-25T14:59:42.133602986] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T14:59:42.133767677] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T15:00:06.396451629] Incoming request to /syllabus-v2/tag/manage/attach-tag ResponseEntity com.syllabus.tagv2.controller.TagRelationController.attachTag(TagRelationDto)
+Incoming request body: {"syllabusId":39,"tagId":5}
+
+[2024-01-25T15:00:08.940088167] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T15:00:08.940599584] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T15:00:25.231476628] Incoming request to /syllabus-v2/tag/add ResponseEntity com.syllabus.tagv2.controller.TagController.addTag(TagDto)
+Incoming request body: {"tagName":"a"}
+
+[2024-01-25T15:00:25.271316070] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T15:00:25.271316772] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T15:00:44.339091297] Incoming request to /syllabus-v2/tag/manage/attach-tag ResponseEntity com.syllabus.tagv2.controller.TagRelationController.attachTag(TagRelationDto)
+Incoming request body: {"syllabusId":40,"tagId":1}
+
+[2024-01-25T15:00:45.981260885] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T15:00:45.981259519] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T15:00:49.047424556] Incoming request to /syllabus-v2/tag/manage/attach-tag ResponseEntity com.syllabus.tagv2.controller.TagRelationController.attachTag(TagRelationDto)
+Incoming request body: {"syllabusId":40,"tagId":6}
+
+[2024-01-25T15:00:50.431510064] Incoming request to /syllabus-v2/tag/manage/getSyllabusWithTags ResponseEntity com.syllabus.tagv2.controller.TagRelationController.getSyllabusWithTags()
+
+[2024-01-25T15:00:50.431510306] Incoming request to /syllabus-v2/tag/all ResponseEntity com.syllabus.tagv2.controller.TagController.getAllTags()
+
+[2024-01-25T15:01:28.430630154] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-25T15:01:28.450239100] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
+[2024-01-25T16:12:59.149343647] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+

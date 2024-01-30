@@ -1,0 +1,6 @@
+[2024-01-30T11:06:04.025078446] Incoming request to /api-docs/swagger-config Map org.springdoc.webmvc.ui.SwaggerConfigResource.openapiJson(HttpServletRequest)
+Error in Log
+
+[2024-01-30T11:06:04.054415831] Incoming request to /api-docs byte[] org.springdoc.webmvc.api.OpenApiWebMvcResource.openapiJson(HttpServletRequest,String,Locale)
+Error in Log
+
